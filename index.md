@@ -1,4 +1,4 @@
-<iframe src="https://www.openprocessing.org/sketch/903982/embed/" width="00" height="300"></iframe>
+<iframe src="https://www.openprocessing.org/sketch/903982/embed/" width="600" height="300"></iframe>
 
 ![プロフィール写真](IMG_1807.JPG)
 
